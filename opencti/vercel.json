@@ -1,0 +1,8 @@
+{
+    "name": "filigran-opencti",
+    "rootDirectory": "opencti",
+    "builds": [],
+    "routes": [],
+    "env": {}
+  }
+  
